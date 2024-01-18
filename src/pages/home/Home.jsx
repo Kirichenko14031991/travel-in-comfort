@@ -12,7 +12,7 @@ const Home = () => {
         <HomeButton>Explore Catalog</HomeButton>
       </Link>
 
-      <p>For inquiries, you can contact us at <a href="tel:+380730000000">+380730000000</a>.</p>
+      <HomeDescription>For inquiries, you can contact us at <a href="tel:+380730000000">+380730000000</a>.</HomeDescription>
     </HomeWrap>
   );
 };
